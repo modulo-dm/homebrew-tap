@@ -2,7 +2,7 @@ class Modulo < Formula
   desc "source-only dependency manager"
   homepage "https://github.com/modulo-dm/modulo"
   url "https://github.com/modulo-dm/modulo/archive/v0.6.3.tar.gz"
-  sha256 "e971fba4b9d09c01f70092a574728a5a0d4c10ec"
+  sha256 "21a1c1fba22103d5c8a7b4628f2313861c6c5ec75a0c8e679c42b44c4e42fb43"
 
   depends_on :xcode => "9.4.1"
 
